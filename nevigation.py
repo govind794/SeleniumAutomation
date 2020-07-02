@@ -4,12 +4,11 @@ import time
 
 driver = webdriver.Chrome(executable_path='/usr/local/bin/chromedriver')
 
-driver.get('https://drivezy.com')
+driver.get('http://newtours.demoaut.com/')
 print(driver.title)
 
-driver.get('https://drivezytest.com')
+driver.get('https://web.drivezytest.com/Bengaluru')
 time.sleep(5)
-
 print(driver.title)
 
 driver.back()

@@ -1,11 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="877" />
+  <component name="ChangeListManager">
+    <list default="true" id="72b4cb9e-c230-428c-a489-9b8b3f4c34f5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Excel/dataDrivenUsingExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excel/writeDataExcel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Excel/xlUtis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPack/test_Login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyPack/test_SignUp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package1/TC_LoginTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package1/TC_SignupTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package2/TC_PaymentReturnTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Package2/TC_PaymentTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestCase_Drivezy_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestSuites/All_TestSuites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/alert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assertTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cookies.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataBaseConnect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doubleClickMouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dragDrop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/driver/basiccomment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/explicitwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fileDownload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/frame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/handleMouseAction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/implicttwait.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/init.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inputbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/link.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logging_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rightClickMouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scollWebPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenShot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_pytest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uploadFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webTable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/windowhandle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/SeleniumAutomation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/SeleniumAutomation.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming/ASCIIValue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming/quotientAndReminder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Programming/twoNumberMultiply.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/condition.py" beforeDir="false" afterPath="$PROJECT_DIR$/condition.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/geckodriver.log" beforeDir="false" afterPath="$PROJECT_DIR$/Excel/dataDrivenTestCase.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/insertionSort.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/nevigation.py" beforeDir="false" afterPath="$PROJECT_DIR$/nevigation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/loginTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/loginTest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unitTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/unitTest.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bMF0wAk017cPm9BZKNyD9GADfY" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/driver/reports" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Package1" />
+      <recent name="$PROJECT_DIR$/Excel" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.All_TestSuites">
+    <configuration name="All_TestSuites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestSuites" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestSuites/All_TestSuites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataBaseConnect" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dataBaseConnect.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dataDrivenUsingExcel" type="PythonConfigurationType" factoryName="Python">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Excel/dataDrivenUsingExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="dragDrop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dragDrop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for TestCase_Drivezy_login.Drivezy_login" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCase_Drivezy_login.Drivezy_login&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in unitTest.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumAutomation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/unitTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.All_TestSuites" />
+        <item itemvalue="Python tests.pytest in unitTest.py" />
+        <item itemvalue="Python.dragDrop" />
+        <item itemvalue="Python tests.pytest for TestCase_Drivezy_login.Drivezy_login" />
+        <item itemvalue="Python.dataBaseConnect" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72b4cb9e-c230-428c-a489-9b8b3f4c34f5" name="Default Changelist" comment="" />
+      <created>1586697706398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586697706398</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1590943763844">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1590943763844" />
+    <state width="1419" height="244" key="GridCell.Tab.0.center" timestamp="1590943763841">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1590943763841" />
+    <state width="1419" height="244" key="GridCell.Tab.0.left" timestamp="1590943763840">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1590943763840" />
+    <state width="1419" height="244" key="GridCell.Tab.0.right" timestamp="1590943763842">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1590943763842" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1590843744504">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1590843744504" />
+    <state x="421" y="207" width="722" height="486" key="find.popup" timestamp="1589299596478">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="207" width="722" height="486" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1589299596478" />
   </component>
 </project>

@@ -34,8 +34,8 @@ class Login(unittest.TestCase):
 
     @classmethod
     def tearDownClass(cls):
-        cls.driver.close()
-        cls.driver.quit()
+        # cls.driver.close()
+        # cls.driver.quit()
         print("Login")
 
 
